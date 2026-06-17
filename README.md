@@ -1,7 +1,7 @@
 # OIBSIP - Java Development Internship
 ## OASIS INFOBYTE Internship Projects
 
-### Intern: Kunal
+### Intern: Kunal Gaikwad 
 ### Domain: Java Development
 
 ---
